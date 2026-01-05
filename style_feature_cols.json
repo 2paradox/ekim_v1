@@ -1,0 +1,17 @@
+[
+  "pass_attempts_per_game",
+  "pass_success_rate",
+  "forward_pass_ratio",
+  "long_pass_ratio",
+  "carry_count_per_game",
+  "avg_carry_distance",
+  "takeon_attempts_per_game",
+  "takeon_success_rate",
+  "shots_per_game",
+  "shot_on_target_rate",
+  "inbox_shot_ratio",
+  "tackles_per_game",
+  "tackle_success_rate",
+  "interceptions_per_game",
+  "blocks_per_game"
+]
